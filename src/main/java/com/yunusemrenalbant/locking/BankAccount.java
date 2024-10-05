@@ -18,7 +18,6 @@ public class BankAccount {
 
     @Version
     private Integer version;
-
      */
 
     public Long getId() {
