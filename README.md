@@ -21,3 +21,5 @@ Bu projede, her iki kilitleme stratejisinin ne zaman, nasıl kullanılacağına 
 
 Proje standart Spring Boot uygulaması şeklinde çalıştırılabilir. Veritabanı konfigürasyonları için `application.properties` dosyasını düzenlemeniz yeterlidir.
 
+## Detaylı Bilgi İçin
+[Hibernate: Optimistic ve Pessimistic Locking Nedir?](https://medium.com/@yunusemrenalbant/hibernate-optimistic-ve-pessimistic-locking-nedir-9429c422ccbd)
